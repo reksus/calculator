@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/reksus/calculator.git/static/css/main.c7a7ef5a.chunk.css",
-    "main.js": "/reksus/calculator.git/static/js/main.08ae1010.chunk.js",
-    "main.js.map": "/reksus/calculator.git/static/js/main.08ae1010.chunk.js.map",
-    "runtime-main.js": "/reksus/calculator.git/static/js/runtime-main.aade0103.js",
-    "runtime-main.js.map": "/reksus/calculator.git/static/js/runtime-main.aade0103.js.map",
-    "static/js/2.331d1595.chunk.js": "/reksus/calculator.git/static/js/2.331d1595.chunk.js",
-    "static/js/2.331d1595.chunk.js.map": "/reksus/calculator.git/static/js/2.331d1595.chunk.js.map",
-    "index.html": "/reksus/calculator.git/index.html",
-    "precache-manifest.f9d618aee8eb1511655230b38aba1a05.js": "/reksus/calculator.git/precache-manifest.f9d618aee8eb1511655230b38aba1a05.js",
-    "service-worker.js": "/reksus/calculator.git/service-worker.js",
-    "static/css/main.c7a7ef5a.chunk.css.map": "/reksus/calculator.git/static/css/main.c7a7ef5a.chunk.css.map",
-    "static/js/2.331d1595.chunk.js.LICENSE.txt": "/reksus/calculator.git/static/js/2.331d1595.chunk.js.LICENSE.txt"
+    "main.css": "/calculator/static/css/main.c7a7ef5a.chunk.css",
+    "main.js": "/calculator/static/js/main.08ae1010.chunk.js",
+    "main.js.map": "/calculator/static/js/main.08ae1010.chunk.js.map",
+    "runtime-main.js": "/calculator/static/js/runtime-main.6de0c573.js",
+    "runtime-main.js.map": "/calculator/static/js/runtime-main.6de0c573.js.map",
+    "static/js/2.331d1595.chunk.js": "/calculator/static/js/2.331d1595.chunk.js",
+    "static/js/2.331d1595.chunk.js.map": "/calculator/static/js/2.331d1595.chunk.js.map",
+    "index.html": "/calculator/index.html",
+    "precache-manifest.d35283d62ca307c188fb492d22a6d8cf.js": "/calculator/precache-manifest.d35283d62ca307c188fb492d22a6d8cf.js",
+    "service-worker.js": "/calculator/service-worker.js",
+    "static/css/main.c7a7ef5a.chunk.css.map": "/calculator/static/css/main.c7a7ef5a.chunk.css.map",
+    "static/js/2.331d1595.chunk.js.LICENSE.txt": "/calculator/static/js/2.331d1595.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.aade0103.js",
+    "static/js/runtime-main.6de0c573.js",
     "static/js/2.331d1595.chunk.js",
     "static/css/main.c7a7ef5a.chunk.css",
     "static/js/main.08ae1010.chunk.js"
